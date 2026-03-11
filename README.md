@@ -7,22 +7,22 @@
 ## Features
 ### Deck Win Predictor
 Predicts the probability of winning against an opponent deck.
-##### Input
-Your deck
-Opponent deck
-##### Output
+#### Input:-
+- Your deck
+- Opponent deck
+#### Output:-
 Win probability
 ### Counter Deck Recommendation AI
 Suggests decks that are effective counters against the opponent's deck.
-##### Input
+#### Input:-
 Opponent deck
-##### Output
+#### Output:-
 Recommended counter decks
 ### Deck Builder AI
 Generates the best possible deck using the cards owned by the user.
-##### Input
+#### Input:-
 Cards owned
-##### Output
+#### Output:-
 Optimized deck suggestion
 ## Screenshots
 ### Homepage
@@ -36,21 +36,20 @@ Optimized deck suggestion
 ## Datasets used:
 https://www.kaggle.com/datasets/bwandowando/clash-royale-season-18-dec-0320-dataset
 https://www.kaggle.com/datasets/s1m0n38/clash-royale-games
-cards.json
-These datasets contain real Clash Royale ladder match data including decks used and match results.
+- These datasets contain real Clash Royale ladder match data including decks used and match results.
 ## Tech Stack
 ### Machine Learning
-Python
-Pandas
-Scikit-learn
-XGBoost
+- Python
+- Pandas
+- Scikit-learn
+- XGBoost
 ### Frontend
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 ### Backend
-Python
+- Python
 ## Future Improvements
-Opponent deck prediction AI
-Card synergy analysis
-Meta analysis dashboard
+- Opponent deck prediction AI,
+- Card synergy analysis,
+- Meta analysis dashboard.
