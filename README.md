@@ -6,24 +6,17 @@
 - The system analyzes historical match data to learn patterns between decks and match outcomes, enabling it to predict win probabilities and recommend stronger deck strategies.
 ## Features
 ### Deck Win Predictor
-Predicts the probability of winning against an opponent deck.
-#### Input:-
-- Your deck
-- Opponent deck
-#### Output:-
-Win probability
+- Predicts the probability of winning against an opponent deck.
+- Input:-Your deck,Opponent deck
+- Output:-Win probability
 ### Counter Deck Recommendation AI
-Suggests decks that are effective counters against the opponent's deck.
-#### Input:-
-Opponent deck
-#### Output:-
-Recommended counter decks
+- Suggests decks that are effective counters against the opponent's deck.
+- Input:-Opponent deck
+- Output:-Recommended counter decks
 ### Deck Builder AI
-Generates the best possible deck using the cards owned by the user.
-#### Input:-
-Cards owned
-#### Output:-
-Optimized deck suggestion
+- Generates the best possible deck using the cards owned by the user.
+- Input:-Cards owned
+- Output:-Optimized deck suggestion
 ## Screenshots
 ### Homepage
 ![Homepage](images/1.jpg)
@@ -34,8 +27,8 @@ Optimized deck suggestion
 ### Deck Builder AI
 ![Deck Builder](images/4.jpg)
 ## Datasets used:
-https://www.kaggle.com/datasets/bwandowando/clash-royale-season-18-dec-0320-dataset
-https://www.kaggle.com/datasets/s1m0n38/clash-royale-games
+- https://www.kaggle.com/datasets/bwandowando/clash-royale-season-18-dec-0320-dataset
+- https://www.kaggle.com/datasets/s1m0n38/clash-royale-games
 - These datasets contain real Clash Royale ladder match data including decks used and match results.
 ## Tech Stack
 ### Machine Learning
